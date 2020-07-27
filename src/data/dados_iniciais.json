@@ -1,46 +1,42 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Python",
+      "link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6",
+      "cor": "#E3BD11",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Curso em Vídeo",
+        "url": "https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Curso Python #02 - Para que serve o Python?",
+          "url": "https://www.youtube.com/watch?v=Mp0vhMDI7fA&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&t=0s"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Curso Python #02 - Para que serve o Python?",
+          "url": "https://www.youtube.com/watch?v=Mp0vhMDI7fA&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&t=0s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "url": "https://www.youtube.com/watch?v=VuKvR1J2LQE&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=3",
+          "titulo": "Curso Python #03 - Instalando o Python3 e o IDLE"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Curso Python #04 - Primeiros comandos em Python3",
+          "url": "https://www.youtube.com/watch?v=31llNGKWDdo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Curso Python #05 - Instalando o PyCharm e o QPython3",
+          "url": "https://www.youtube.com/watch?v=ElRd0cbXIv4&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=6"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Curso Python #06 - Tipos Primitivos e Saída de Dados",
+          "url": "https://www.youtube.com/watch?v=hdDHg1p3YVc&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=9"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Curso Python #07 - Operadores Aritméticos",
+          "url": "https://www.youtube.com/watch?v=Vw6gLypRKmY&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=12"
+        }
       ]
     },
     {
@@ -66,7 +62,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"

@@ -4,7 +4,7 @@
 }
 
 :root {
-  --primary: #2A7AE4;
+  --primary: #F50E4D;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
@@ -23,3 +23,23 @@ body {
 a {
   color: inherit;
 } 
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--black); 
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #C71042; 
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #9E1137; 
+}
