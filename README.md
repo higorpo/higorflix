@@ -4,7 +4,7 @@
 
 [![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](https://github.com/higorpo/higorflix/blob/master/LICENSE) [![siga-me](https://img.shields.io/github/followers/higorpo?label=Siga-me&style=social)]()
 
-> Projeto construido durante a [Imersão React da Alura](https://www.alura.com.br/imersao-react/)
+> Projeto construido durante a [Imersão React da Alura.](https://www.alura.com.br/imersao-react/)
 
 
 ## Como rodar o projeto?
@@ -18,3 +18,4 @@ npm start
 
 ## License/Licença do Projeto
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
+
