@@ -16,7 +16,7 @@ function Footer() {
         {' '}
         por
         {' '}
-        <a href="https://github.com/higorpo" target="_blank">
+        <a href="https://github.com/higorpo" rel="noopener noreferrer" target="_blank">
           Higor Oliveira
         </a>
       </p>
